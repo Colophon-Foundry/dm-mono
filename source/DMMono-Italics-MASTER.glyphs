@@ -1,5 +1,5 @@
 {
-.appVersion = "1237";
+.appVersion = "1342";
 copyright = "Copyright 2020 The DM Mono Project Authors (https://www.github.com/googlefonts/dm-mono)";
 customParameters = (
 {
@@ -25720,5 +25720,5 @@ manufacturer = "Colophon Foundry";
 manufacturerURL = "https://www.colophon-foundry.org";
 unitsPerEm = 1000;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
